@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VPO PREMIUM GROUP</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        p {
+            text-align: center;
+        }
+        .description {
+            text-align: left;
+        }
+        .highlight {
+            color: #007bff;
+            font-weight: bold;
+        }
+        .fee {
+            text-align: center;
+            font-size: 24px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>VPO PREMIUM GROUP</h1>
+        <p><em>A Way To Chase Your Dream.</em></p>
+        <div class="description">
+            <h2>What Will You Get:</h2>
+            <ul>
+                <li>A- Daily 1 live Quiz on 1 Topic</li>
+                <li>B- 15+ Full Mock Test</li>
+                <li>C- 65+ Mini Quiz</li>
+                <li>D- PR and Computer Pdf Notes</li>
+                <li>E- Most Important Yojna Material</li>
+            </ul>
+        </div>
+        <div class="fee">
+            <p>Fee: 149/- rupee only</p>
+        </div>
+        <p style="text-align: center;">Join now by contacting me on Telegram: <span class="highlight">Your Telegram Handle</span></p>
+    </div>
+</body>
+</html>
